@@ -1,0 +1,13 @@
+page {
+	background-color: #F5F6FA;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+/* 隐藏滚动条 */
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+

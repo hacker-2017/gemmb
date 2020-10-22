@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/monitor/main",
+    "pages/monitor/details/main",
+    "pages/ticket/main",
+    "pages/ticket/details/main",
+    "pages/setting/main",
+    "pages/login/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom",
+    "enablePullDownRefresh": false
+  },
+  "usingComponents": {
+    "van-icon": "static/vant-weapp/dist/icon/index",
+	"van-tabbar": "static/vant-weapp/dist/tabbar/index",
+    "van-circle": "static/vant-weapp/dist/circle/index",
+	"van-tabbar-item": "static/vant-weapp/dist/tabbar-item/index",
+    "van-field": "static/vant-weapp/dist/field/index",
+    "van-checkbox": "static/vant-weapp/dist/checkbox/index",
+    "van-button": "static/vant-weapp/dist/button/index",
+    "van-nav-bar": "static/vant-weapp/dist/nav-bar/index",
+    "van-loading": "static/vant-weapp/dist/loading/index",
+    "van-dialog": "static/vant-weapp/dist/dialog/index",
+    "van-overlay": "static/vant-weapp/dist/overlay/index",
+    "van-popup": "static/vant-weapp/dist/popup/index",
+    "van-progress": "static/vant-weapp/dist/progress/index",
+
+    "van-collapse": "static/vant-weapp/dist/collapse/index",
+    "van-collapse-item": "static/vant-weapp/dist/collapse-item/index",
+    
+    "wux-circle": "static/wux-weapp/dist/circle/index"
+    
+  }
+ 
+}
